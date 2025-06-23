@@ -71,7 +71,7 @@ dependencies {
 //}
 
 ext {
-    releaseVersion = '1.0-SNAPSHOT'
+    releaseVersion = '1.0.0'
 }
 
 task androidSourcesJar(type: Jar) {
